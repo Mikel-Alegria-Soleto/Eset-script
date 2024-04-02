@@ -1,5 +1,5 @@
 # Eset-script comprobation by Mikel Alegría Soleto
-This script allows you to check if the antivitus eset has been updated in a certain period of time
+This script allows you to check if the antivirus eset has been updated in a certain period of time
 
 If eset has not been updated in more than x days, the following will appear (you can modify the output to your liking) :
 
